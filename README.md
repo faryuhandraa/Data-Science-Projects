@@ -1,1 +1,1 @@
-Currently, I am deepening my expertise in data analytics and science by create several projects. That's why I created this repository. Thank you!:)
+This is my first repository on GitHub. Currently, I am deepening my expertise in data analytics and science. I will also learn create several projects. That's why I created this repository. Thank you!:)
